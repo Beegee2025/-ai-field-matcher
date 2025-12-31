@@ -1,0 +1,47 @@
+# Extension build files
+*.crx
+*.pem
+dist/
+build/
+.zip
+
+# Node modules
+node_modules/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Screenshots and images (keep source files)
+# screenshots_640x400/
+# screenshots_1280x800/
+
+# Test coverage
+coverage/
+
+# Documentation build
+docs/_build/
+
+# Backup files
+*.bak
+*.backup
