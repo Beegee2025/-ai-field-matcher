@@ -1,0 +1,38 @@
+body {
+  background: #000000;
+  color: #FFFFFF;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Inter", sans-serif;
+}
+
+.pro-banner {
+  margin-top: 16px;
+  padding: 16px;
+  border-radius: 10px;
+  background: linear-gradient(135deg, #FF0050, #00F2EA);
+  color: #FFFFFF;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.4);
+}
+
+.pro-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.pro-subtitle {
+  font-size: 0.85rem;
+  opacity: 0.95;
+  margin-bottom: 12px;
+}
+
+.pro-upgrade-btn {
+  width: 100%;
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.25);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 6px;
+  color: #FFFFFF;
+  font-weight: 600;
+  cursor: not-allowed;
+}
